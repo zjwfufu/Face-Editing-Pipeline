@@ -2,7 +2,7 @@
 
 ​	该仓库是一个简单的人脸属性编辑管线，结合了一些经典技术和现成的深度学习模型来实现人脸表情编辑，适合初学者学习。
 
-![](./project.svg)
+![](./project.png)
 
 ## 框架
 
@@ -136,40 +136,23 @@ python ./scripts/run_svm.py -s <predict score path>
 
 ​	由于该仓库只是将一些现有的经典的技术结合在一起，所以实现效果的提升空间很大。此外，由于大多数模型都是在主体为欧美人群的数据集中训练的，所以并不是任意一张图像都能达到令人满意的编辑结果。
 
-- 微笑
+- Smile
 
-<center>
-<video id="video" controls style="max-width: 300px; max-height: 600px; width: auto; height: auto;">
-    <source id="mp4" src="./smile1.mp4" type="video/mp4" >
-</video>
-<video id="video" controls style="max-width: 300px; max-height: 600px; width: auto; height: auto;">
-	<source id="mp4" src="./smile2.mp4" type="video/mp4" >
-  </video>   
-</center>
+https://github.com/zjwfufu/Face-Editing-Pipeline/assets/85010710/f99db5a4-35e4-4914-a611-64ce9b23cca9
 
+https://github.com/zjwfufu/Face-Editing-Pipeline/assets/85010710/b9e3594c-79af-40e3-9bcd-5a5961f150b2
 
-- 眼镜
+- Glasses
 
-<center>
-<video id="video" controls style="max-width: 300px; max-height: 600px; width: auto; height: auto;">
-    <source id="mp4" src="./glasses1.mp4" type="video/mp4" >
-</video>
-<video id="video" controls style="max-width: 300px; max-height: 600px; width: auto; height: auto;">
-	<source id="mp4" src="./glasses2.mp4" type="video/mp4" >
-  </video>   
-</center>
+https://github.com/zjwfufu/Face-Editing-Pipeline/assets/85010710/0752f76d-7dfc-4699-a300-de08f0df8964
 
+https://github.com/zjwfufu/Face-Editing-Pipeline/assets/85010710/2052ecb4-8ef7-4a25-a6c8-bb8cea479882
 
-- 年龄
+- Age
 
-<center>
-<video id="video" controls style="max-width: 300px; max-height: 600px; width: auto; height: auto;">
-    <source id="mp4" src="./age1.mp4" type="video/mp4" >
-</video>
-<video id="video" controls style="max-width: 300px; max-height: 600px; width: auto; height: auto;">
-	<source id="mp4" src="./age2.mp4" type="video/mp4" >
-  </video>   
-</center>
+https://github.com/zjwfufu/Face-Editing-Pipeline/assets/85010710/cf4c145c-9722-4714-9093-4aadc8441e19
+
+https://github.com/zjwfufu/Face-Editing-Pipeline/assets/85010710/815c7e04-51f2-4ccc-ad23-563d4e20f9f2
 
 
 ## 参考
