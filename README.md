@@ -138,36 +138,24 @@ python ./scripts/run_svm.py -s <predict score path>
 
 - Smile
 
-<center>
-<video id="video" controls style="max-width: 300px; max-height: 600px; width: auto; height: auto;">
-    <source id="mp4" src="./assets/smile1.mp4" type="video/mp4" >
-</video>
-<video id="video" controls style="max-width: 300px; max-height: 600px; width: auto; height: auto;">
-	<source id="mp4" src="./assets/smile2.mp4" type="video/mp4" >
-  </video>   
-</center>
+https://github.com/zjwfufu/Face-Editing-Pipeline/assets/85010710/f99db5a4-35e4-4914-a611-64ce9b23cca9
+
+https://github.com/zjwfufu/Face-Editing-Pipeline/assets/85010710/b9e3594c-79af-40e3-9bcd-5a5961f150b2
 
 - Glasses
 
-<center>
-<video id="video" controls style="max-width: 300px; max-height: 600px; width: auto; height: auto;">
-    <source id="mp4" src="./assets/glasses1.mp4" type="video/mp4" >
-</video>
-<video id="video" controls style="max-width: 300px; max-height: 600px; width: auto; height: auto;">
-	<source id="mp4" src="./assets/glasses2.mp4" type="video/mp4" >
-  </video>   
-</center>
+https://github.com/zjwfufu/Face-Editing-Pipeline/assets/85010710/0752f76d-7dfc-4699-a300-de08f0df8964
+
+https://github.com/zjwfufu/Face-Editing-Pipeline/assets/85010710/2052ecb4-8ef7-4a25-a6c8-bb8cea479882
 
 - Age
 
-<center>
-<video id="video" controls style="max-width: 300px; max-height: 600px; width: auto; height: auto;">
-    <source id="mp4" src="./assets/age1.mp4" type="video/mp4" >
-</video>
-<video id="video" controls style="max-width: 300px; max-height: 600px; width: auto; height: auto;">
-	<source id="mp4" src="./assets/age2.mp4" type="video/mp4" >
-  </video>   
-</center>
+
+
+
+
+
+
 
 ## Reference
 
