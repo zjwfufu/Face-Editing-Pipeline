@@ -27,7 +27,7 @@
 │   └── ...
 ├── modules
 │   ├── models
-│		├── face_alignment
+│   ├── face_alignment
 │   │   │   ├── face_alignment.py
 │   │   │   └── networks
 │   │   │	└── ...
