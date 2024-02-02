@@ -29,19 +29,19 @@
 │	│	├── face_alignment
 │   │   │   ├── face_alignment.py
 │   │   │   └── networks
-│	│	│		└── ...
+│   │   │	└── ...
 │   │   ├── face_editing
 │   │   │   └── face_editing.py
 │   │   ├── face_generator
 │   │   │   ├── face_generator.py
 │   │   │   └── networks
-│	│	│		└── ...
+│   │   │	└── ...
 │   │   ├── face_inversion
 │   │   │   └── face_inversion.py
 │   │   ├── face_parsing
 │   │   │   ├── face_parsing.py
 │   │   │   └── networks
-				└── ...
+│   │   │	└── ...
 │   │   └── face_paste
 │   │       └── face_paste.py
 │   └── weights
