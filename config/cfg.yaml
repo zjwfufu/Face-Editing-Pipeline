@@ -1,0 +1,37 @@
+models:
+  Face_Generator:
+    outer_class:              'Face_Generator'
+    model_weights:            'face_generator/ffhq.pkl'
+  Face_Alignment:
+    outer_class:              'Face_Alignment'
+    s3df_weights:             'face_alignment/s3fd-619a316812.pth'
+    fan_weights:              'face_alignment/2DFAN4-11f355bf06.pth.tar'
+    transform_size:           512
+  Face_Inversion:
+    outer_class:              'Face_Inversion'
+    vgg16_weights:            'face_inversion/vgg16.pt'
+    # for optimizing w
+    w_num_steps:              500
+    w_avg_samples:            10000
+    initial_lr:               0.1
+    initial_noise_factor:     0.05
+    lr_rampdown_length:       0.25
+    lr_rampup_length:         0.05
+    noise_ramp_length:        0.75
+    regularize_noise_weight:  100000
+    # for finetune generator
+    pti_num_steps:            500
+    pti_l2_lambda:            1
+    pti_lpips_lambda:         1
+    pti_lr:                   0.00003
+  Face_Editing:
+    outer_class:              'Face_Editing'
+  Face_Parsing:
+   outer_class:               'Face_Parsing'
+   bisenet_weights:           'face_parsing/79999_iter.pth'
+   resnet18_weights:          'face_parsing/resnet18-5c106cde.pth'
+   n_classes:                 19
+   transform_size:            512
+  Face_Paste:
+    outer_class:              'Face_Paste'
+    
