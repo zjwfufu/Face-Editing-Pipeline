@@ -1,8 +1,8 @@
 # Face Editing Pipeline
 
 ​	This repository serves as a straightforward pipeline for facial attribute editing. Leveraging classic techniques and off-the-shelf deep learning models, easy for beginners to learn.
-
-![](./assets/project.svg)
+	[[中文文档]](./assets/README_zh.md)
+![](./assets/project.png)
 
 ## Framework
 
