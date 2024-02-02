@@ -150,12 +150,9 @@ https://github.com/zjwfufu/Face-Editing-Pipeline/assets/85010710/2052ecb4-8ef7-4
 
 - Age
 
+https://github.com/zjwfufu/Face-Editing-Pipeline/assets/85010710/cf4c145c-9722-4714-9093-4aadc8441e19
 
-
-
-
-
-
+https://github.com/zjwfufu/Face-Editing-Pipeline/assets/85010710/815c7e04-51f2-4ccc-ad23-563d4e20f9f2
 
 ## Reference
 
